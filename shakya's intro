@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="nav">
+            <ul>
+                <li id="name">SHAKYA KUMAR</li>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#About Me">About Me</a></li>
+                <li><a href="#Skills">Skills</a></li>
+                <li><a href="#Project">Project</a></li>
+                <li><a href="#Contact Me">Contact Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="Home"></div>
+    <ul class="Home" style="display: flex;" type="none">
+        <li>
+            <h1>Hi, I'm shakya <span>kumar</span></h1>
+            </br>
+            <p>This is my official portfolio as a
+                </br><span id="headline">FRONTENED DEVELOPER.</span></br></br>
+                This portfolio showcase my skills, projects,</br> and some relevant information about me.
+            </p>
+        </li>
+        <li>
+            <img id="image" src="/image.jpg" alt="Professional Photo">
+        </li>
+    </ul>
+    </header>
+
+    <div id="About Me"></div>
+    <div class="divabout">
+        <div class="about">
+            <h1>About Me</h1>
+            <p>My name is <span>shakya kumar</span>. I'm currently pursuing my Bachelor of Technology from Lakshmi
+                Narain
+                College of </br>Technology
+                in <span>Computer Science & Engineering</span> with specialization of <span>Artificial Intelligence &
+                    Machine
+                    Learning</span>.</br> I'm a quick learner
+                and group leader. I also like to <span>tackle logical problems</span>.</br> I'm also
+                a
+                sports enthusiast and like to
+                play <span>cricket and chess</span>.</br>
+            </p>
+
+            <ul class="education">
+                <h1 id="edu">Education</h1>
+                <li><span id="college">Bachelor Of Technology(PURSUING)</span></br>
+                    <a href="https://lnct.ac.in/" target="_blank">Lakshmi Narain College Of Technology, Bhopal,
+                        M.P.</a></br>
+                    <span id="course">Computer Science & Engineering-Artificial Engineering & Machine
+                        Learning</span></br>
+                    <span id="cgpa">Agreggate CGPA: 8.19</span>
+                    </br>
+                    </br>
+
+                </li>
+                <li><span id="school">Higher Secondary Education(2022)</span></br>
+                    <a href="https://no2rewa.kvs.ac.in/" target="_blank"> morning star higher secoundry school ratlam (457001)</a></br>
+                    <span id="subjects">Physics, Chemistry, Maths, Information Practices,english</span></br>
+                    <span id="percentage">Percentage: 83.2%</span>
+                    </br>
+                    </br>
+
+                </li>
+                <li>
+                    <span id="school">Secondary Education(2020)</span></br>
+                    <a href="https://depaulrewa.com/" target="_blank"> morning star higher secoundry school ratlam (457001)</a></br>
+                    <span id="subjects">Science, Maths, Information Technology</span></br>
+                    <span id="percentage">Percentage: 86.0%</span>
+                    </br>
+                    </br>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="Skills"></div>
+    <div class="skill">
+        <h1>Skills</h1></BR>
+        <div class="FD">
+            <H1 id="FDHEAD1">FRONTENED DEVELOPMENT</H1>
+            <P>
+                I am a beginner backend devloper. </br>
+                I made a project using ptyhon,HTML & CSS.</br>
+                I also know basics of Javascript.</br></br>
+            </P>
+            <a href="Learn More" target="_blank">Learn More</a></br></br>
+        </div>
+        <div class="C">
+            <H1 ID="FDHEAD2">C++</H1>
+            <P>
+                I am a beginner programmer. </br>
+                I have learnt basic C++ in my college.</br>
+                currently polishing my skills in the same.</br></br>
+            </P>
+            <a href="Learn More" target="_blank">Learn More</a></br></br>
+        </div></br>
+        <div class="Python">
+            <H1 ID="FDHEAD3">Python</H1>
+            <P>
+                I have learnt Python during school. </br>
+                I made a project using python of python mysql connector.</br>
+                Therefore I am trying to revive and enhanceing my skills</br></br>
+            </P>
+            <a href="Learn More" target="_blank">Learn More</a></br></br>
+        </div>
+        <div class="Oops">
+            <H1 ID="FDHEAD4">Object Oriented programming</H1>
+            <P>
+                I have learnt basic concept
+                from college. </br>
+                I am still trying to excell it.</br>
+                I learnt oops in C++ language.</br></br>
+            </P>
+            <a href="Learn More" target="_blank">Learn More</a></br></br>
+        </div>
+    </div>
+
+    <div id="Project"></div>
+    <div class="project">
+        <h1>Projects</h1></BR>
+        <p>
+            My Portfolio Website: <a href="index.html" target="_blank">Shakya's Portfolio</a>
+        </p>
+        </br>
+        <div id="more">
+            <div id="see">
+                <a href="More">See More</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="Contact Me"></div>
+    <div class="contact">
+        <h1>Contact Me</h1></BR>
+        <ul>
+            <li>
+                Contact Me via Linkedin: <a href="https://www.linkedin.com/in/shakya-kumar-6b7825247/"
+                    target="_blank">https://www.linkedin.com/in/shakya-kumar-6b7825247/</a>
+            </li>
+            <li>Contact Me via email: <span>kumarshakya57@gmail.com</span></li>
+        </ul>
+        <form action="/url" method="GET"></form>
+        <p>Enter your name: </p>
+        <textarea name="name" rows="1" placeholder="Name"></textarea></br></br>
+        <p>Enter your email: </p>
+        <textarea name="email" rows="1" placeholder="Email"></textarea></br></br>
+        <p>Enter your message: </p>
+        <textarea name="Message" rows="5" placeholder="Your Message"></textarea></br></br>
+        <input id="submit" type="button" value="Submit">
+    </div>
+
+        <div>
+        <div class="copyright">
+            <p>Copyright &copy;2023 shakya kumar</p>
+        </div>
+    </div>
+</body>
+
+</html>
