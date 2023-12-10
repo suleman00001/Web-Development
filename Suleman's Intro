@@ -24,7 +24,7 @@
     <div id="Home"></div>
     <ul class="Home" style="display: flex;" type="none">
         <li>
-            <h1>Hi, I'm shakya <span>kumar</span></h1>
+            <h1>Hi, I'm Suleman<span>Siddiqui</span></h1>
             </br>
             <p>This is my official portfolio as a
                 </br><span id="headline">FRONTENED DEVELOPER.</span></br></br>
@@ -150,7 +150,7 @@
                 Contact Me via Linkedin: <a href="www.linkedin.com/in/suleman-siddiqui-693226289"
                     target="_blank">https://www.linkedin.com/in/shakya-kumar-6b7825247/</a>
             </li>
-            <li>Contact Me via email: <span>kumarsuleman201104@gmail.com</span></li>
+            <li>Contact Me via email: <span>suleman201104@gmail.com</span></li>
         </ul>
         <form action="/url" method="GET"></form>
         <p>Enter your name: </p>
