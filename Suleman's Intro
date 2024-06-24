@@ -44,13 +44,13 @@
             <p>My name is <span>suleman siddiqui</span>. I'm currently pursuing my Bachelor of Technology from Bansal 
                 Institute 
              of Science and </br>Technology
-                in <span>Computer Science & Engineering</span> with specialization of <span>Information technology
+                in<span>Information technology
                     
-                    Learning</span>.</br> I'm a quick learner 
+                </span>.</br> I'm a quick learner 
                 and group leader. I also like to <span>tackle logical problems</span>.</br> I'm also
                 a
                 sports enthusiast and like to
-                play <span>cricket and chess</span>.</br>
+                play <span>cricket and basketball</span>.</br>
             </p>
 
             <ul class="education">
@@ -58,16 +58,16 @@
                 <li><span id="college">Bachelor Of Technology(PURSUING)</span></br>
                     <a href="https://lnct.ac.in/" target="_blank">Bansal Institute Of Science and Technology, Bhopal,
                         M.P.</a></br>
-                    <span id="course">Computer Science & Engineering-Information Technology
-                        Learning</span></br>
+                    <span id="course">Information Technology
+                        </span></br>
                     <span id="cgpa">Agreggate CGPA: 6.9</span>
                     </br>
                     </br>
 
                 </li>
                 <li><span id="school">Higher Secondary Education(2022)</span></br>
-                    <a href="https://no2rewa.kvs.ac.in/" target="_blank"> St Theresa higher secoundry school Burhanpur (457001)</a></br>
-                    <span id="subjects">Physics, Chemistry, Maths, Hindi,english</span></br>
+                    <a href="https://no2rewa.kvs.ac.in/" target="_blank">St.theresa hr. sec. school Burhanpur (450331)</a></br>
+                    <span id="subjects">Physics, Chemistry, Maths, Hindi, English</span></br>
                     <span id="percentage">Percentage: 69%</span>
                     </br>
                     </br>
@@ -75,9 +75,9 @@
                 </li>
                 <li>
                     <span id="school">Secondary Education(2020)</span></br>
-                    <a href="https://depaulrewa.com/" target="_blank"> St.theresa hr. sec. school Burhanpur (457001)</a></br>
-                    <span id="subjects">Science, Maths, Information Technology</span></br>
-                    <span id="percentage">Percentage: 86.0%</span>
+                    <a href="https://depaulrewa.com/" target="_blank"> St.theresa hr. sec. school Burhanpur (450331)</a></br>
+                    <span id="subjects">Science, Maths, Social Science, English, Hindi, Information Practices</span></br>
+                    <span id="percentage">Percentage: 65%</span>
                     </br>
                     </br>
 
@@ -94,7 +94,7 @@
             <P>
                 I am a beginner backend devloper. </br>
                 I made a project using ptyhon,HTML & CSS.</br>
-                I also know basics of Javascript.</br></br>
+                I also know frontend basics of Javascript.</br></br>
             </P>
             <a href="Learn More" target="_blank">Learn More</a></br></br>
         </div>
@@ -102,7 +102,7 @@
             <H1 ID="FDHEAD2">C++</H1>
             <P>
                 I am a beginner programmer. </br>
-                I have learnt basic C++ in my college.</br>
+                I have learnt basic C, C++ in my college.</br>
                 currently polishing my skills in the same.</br></br>
             </P>
             <a href="Learn More" target="_blank">Learn More</a></br></br>
@@ -148,7 +148,7 @@
         <ul>
             <li>
                 Contact Me via Linkedin: <a href="www.linkedin.com/in/suleman-siddiqui-693226289"
-                    target="_blank">https://www.linkedin.com/in/shakya-kumar-6b7825247/</a>
+                    </a>
             </li>
             <li>Contact Me via email: <span>suleman201104@gmail.com</span></li>
         </ul>
